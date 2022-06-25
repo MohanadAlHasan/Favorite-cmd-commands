@@ -6,7 +6,7 @@ I can create diroktory (folder) with out back to my folders in my computer.
 ## code .
 i can open files with **Visual Studio Code** in termminal.
 
-##git log 
+## git log 
 I can see the comments that were written on the file.
 
 ## git push
